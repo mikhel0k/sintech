@@ -1,0 +1,582 @@
+{
+  "city": "Krasnoyarsk",
+  "version": "1.1",
+  "generated_at": "2026-03-26",
+  "source_note": "District profiles are built from public regional statistics and urban behavioral patterns; some fields are estimated.",
+  "districts": [
+    {
+      "district": "Zheleznodorozhny",
+      "demography": {
+        "sex": { "male_pct": 47, "female_pct": 53, "confidence": "medium" },
+        "age": {
+          "age_0_17": 17,
+          "age_18_24": 11,
+          "age_25_34": 19,
+          "age_35_44": 16,
+          "age_45_54": 14,
+          "age_55_plus": 23,
+          "median_age": 38,
+          "confidence": "medium"
+        },
+        "income": {
+          "band": "middle_to_upper_middle",
+          "avg_monthly_personal_income_rub_est": 64000,
+          "price_sensitivity": "medium",
+          "confidence": "low"
+        },
+        "body_profile": {
+          "height_weight_build": "no official district-level statistics",
+          "confidence": "low"
+        }
+      },
+      "location": {
+        "home": "mostly urban apartment housing",
+        "work": "offices, transport, service jobs",
+        "commute_pattern": "moderate commuter mobility",
+        "confidence": "medium"
+      },
+      "lifestyle": {
+        "entrepreneur": 0.13,
+        "maternity_mom": 0.09,
+        "large_family": 0.07,
+        "instagram_girl": 0.11,
+        "school_student": 0.15,
+        "university_student": 0.12,
+        "factory_worker": 0.14,
+        "office_worker": 0.34,
+        "it_boy": 0.11,
+        "confidence": "low"
+      },
+      "psychographics": {
+        "brand_loyalty": "medium",
+        "innovativeness": "medium_to_above_average",
+        "price_sensitivity": "medium",
+        "confidence": "low"
+      },
+      "food_allergies": {
+        "lactose": null,
+        "gluten": null,
+        "nuts": null,
+        "note": "no district-level medical statistics",
+        "confidence": "low"
+      },
+      "diet_profile": {
+        "healthy_lifestyle": 0.31,
+        "fast_food": 0.39,
+        "vegan": 0.03,
+        "high_protein": 0.16,
+        "halal": 0.05,
+        "confidence": "low"
+      },
+      "social_context": {
+        "alone": 0.26,
+        "with_friends": 0.28,
+        "business_meeting": 0.18,
+        "family_dinner": 0.28,
+        "quick_snack": 0.34,
+        "full_meal": 0.4,
+        "meeting_place": 0.14,
+        "business_lunch": 0.12,
+        "confidence": "low"
+      },
+      "daypart": {
+        "breakfast": 0.19,
+        "lunch": 0.37,
+        "dinner": 0.44,
+        "confidence": "low"
+      }
+    },
+    {
+      "district": "Tsentralny",
+      "demography": {
+        "sex": { "male_pct": 46, "female_pct": 54, "confidence": "medium" },
+        "age": {
+          "age_0_17": 14,
+          "age_18_24": 13,
+          "age_25_34": 22,
+          "age_35_44": 18,
+          "age_45_54": 13,
+          "age_55_plus": 20,
+          "median_age": 36,
+          "confidence": "medium"
+        },
+        "income": {
+          "band": "upper_middle",
+          "avg_monthly_personal_income_rub_est": 72000,
+          "price_sensitivity": "medium_to_low",
+          "confidence": "low"
+        },
+        "body_profile": {
+          "height_weight_build": "no official district-level statistics",
+          "confidence": "low"
+        }
+      },
+      "location": {
+        "home": "dense central urban housing",
+        "work": "offices, services, horeca, government and business centers",
+        "commute_pattern": "high daytime work-trip concentration",
+        "confidence": "medium"
+      },
+      "lifestyle": {
+        "entrepreneur": 0.16,
+        "maternity_mom": 0.07,
+        "large_family": 0.05,
+        "instagram_girl": 0.14,
+        "school_student": 0.11,
+        "university_student": 0.14,
+        "factory_worker": 0.08,
+        "office_worker": 0.39,
+        "it_boy": 0.16,
+        "confidence": "low"
+      },
+      "psychographics": {
+        "brand_loyalty": "medium",
+        "innovativeness": "high",
+        "price_sensitivity": "medium",
+        "confidence": "low"
+      },
+      "food_allergies": {
+        "lactose": null,
+        "gluten": null,
+        "nuts": null,
+        "note": "no district-level medical statistics",
+        "confidence": "low"
+      },
+      "diet_profile": {
+        "healthy_lifestyle": 0.35,
+        "fast_food": 0.37,
+        "vegan": 0.04,
+        "high_protein": 0.18,
+        "halal": 0.04,
+        "confidence": "low"
+      },
+      "social_context": {
+        "alone": 0.24,
+        "with_friends": 0.3,
+        "business_meeting": 0.23,
+        "family_dinner": 0.23,
+        "quick_snack": 0.36,
+        "full_meal": 0.34,
+        "meeting_place": 0.17,
+        "business_lunch": 0.13,
+        "confidence": "low"
+      },
+      "daypart": {
+        "breakfast": 0.18,
+        "lunch": 0.41,
+        "dinner": 0.41,
+        "confidence": "low"
+      }
+    },
+    {
+      "district": "Kirovsky",
+      "demography": {
+        "sex": { "male_pct": 48, "female_pct": 52, "confidence": "medium" },
+        "age": {
+          "age_0_17": 18,
+          "age_18_24": 10,
+          "age_25_34": 17,
+          "age_35_44": 16,
+          "age_45_54": 15,
+          "age_55_plus": 24,
+          "median_age": 39,
+          "confidence": "medium"
+        },
+        "income": {
+          "band": "middle",
+          "avg_monthly_personal_income_rub_est": 59000,
+          "price_sensitivity": "above_medium",
+          "confidence": "low"
+        },
+        "body_profile": {
+          "height_weight_build": "no official district-level statistics",
+          "confidence": "low"
+        }
+      },
+      "location": {
+        "home": "mixed apartment and private housing",
+        "work": "manufacturing, retail, services",
+        "commute_pattern": "medium_to_high commuter mobility",
+        "confidence": "medium"
+      },
+      "lifestyle": {
+        "entrepreneur": 0.1,
+        "maternity_mom": 0.1,
+        "large_family": 0.09,
+        "instagram_girl": 0.08,
+        "school_student": 0.16,
+        "university_student": 0.08,
+        "factory_worker": 0.24,
+        "office_worker": 0.23,
+        "it_boy": 0.07,
+        "confidence": "low"
+      },
+      "psychographics": {
+        "brand_loyalty": "medium_to_above_average",
+        "innovativeness": "medium",
+        "price_sensitivity": "high",
+        "confidence": "low"
+      },
+      "food_allergies": {
+        "lactose": null,
+        "gluten": null,
+        "nuts": null,
+        "note": "no district-level medical statistics",
+        "confidence": "low"
+      },
+      "diet_profile": {
+        "healthy_lifestyle": 0.26,
+        "fast_food": 0.42,
+        "vegan": 0.02,
+        "high_protein": 0.17,
+        "halal": 0.06,
+        "confidence": "low"
+      },
+      "social_context": {
+        "alone": 0.22,
+        "with_friends": 0.25,
+        "business_meeting": 0.11,
+        "family_dinner": 0.42,
+        "quick_snack": 0.31,
+        "full_meal": 0.48,
+        "meeting_place": 0.11,
+        "business_lunch": 0.1,
+        "confidence": "low"
+      },
+      "daypart": {
+        "breakfast": 0.22,
+        "lunch": 0.35,
+        "dinner": 0.43,
+        "confidence": "low"
+      }
+    },
+    {
+      "district": "Leninsky",
+      "demography": {
+        "sex": { "male_pct": 49, "female_pct": 51, "confidence": "medium" },
+        "age": {
+          "age_0_17": 17,
+          "age_18_24": 9,
+          "age_25_34": 16,
+          "age_35_44": 15,
+          "age_45_54": 16,
+          "age_55_plus": 27,
+          "median_age": 41,
+          "confidence": "medium"
+        },
+        "income": {
+          "band": "middle_to_lower_middle",
+          "avg_monthly_personal_income_rub_est": 56000,
+          "price_sensitivity": "high",
+          "confidence": "low"
+        },
+        "body_profile": {
+          "height_weight_build": "no official district-level statistics",
+          "confidence": "low"
+        }
+      },
+      "location": {
+        "home": "mostly established residential blocks",
+        "work": "industry, logistics, local trade",
+        "commute_pattern": "high dependence on public transport",
+        "confidence": "medium"
+      },
+      "lifestyle": {
+        "entrepreneur": 0.09,
+        "maternity_mom": 0.09,
+        "large_family": 0.1,
+        "instagram_girl": 0.07,
+        "school_student": 0.15,
+        "university_student": 0.06,
+        "factory_worker": 0.28,
+        "office_worker": 0.2,
+        "it_boy": 0.06,
+        "confidence": "low"
+      },
+      "psychographics": {
+        "brand_loyalty": "above_average",
+        "innovativeness": "below_average",
+        "price_sensitivity": "high",
+        "confidence": "low"
+      },
+      "food_allergies": {
+        "lactose": null,
+        "gluten": null,
+        "nuts": null,
+        "note": "no district-level medical statistics",
+        "confidence": "low"
+      },
+      "diet_profile": {
+        "healthy_lifestyle": 0.23,
+        "fast_food": 0.44,
+        "vegan": 0.01,
+        "high_protein": 0.18,
+        "halal": 0.05,
+        "confidence": "low"
+      },
+      "social_context": {
+        "alone": 0.2,
+        "with_friends": 0.24,
+        "business_meeting": 0.08,
+        "family_dinner": 0.48,
+        "quick_snack": 0.29,
+        "full_meal": 0.52,
+        "meeting_place": 0.09,
+        "business_lunch": 0.1,
+        "confidence": "low"
+      },
+      "daypart": {
+        "breakfast": 0.23,
+        "lunch": 0.33,
+        "dinner": 0.44,
+        "confidence": "low"
+      }
+    },
+    {
+      "district": "Oktyabrsky",
+      "demography": {
+        "sex": { "male_pct": 47, "female_pct": 53, "confidence": "medium" },
+        "age": {
+          "age_0_17": 16,
+          "age_18_24": 14,
+          "age_25_34": 21,
+          "age_35_44": 16,
+          "age_45_54": 13,
+          "age_55_plus": 20,
+          "median_age": 36,
+          "confidence": "medium"
+        },
+        "income": {
+          "band": "middle_to_upper_middle",
+          "avg_monthly_personal_income_rub_est": 66000,
+          "price_sensitivity": "medium",
+          "confidence": "low"
+        },
+        "body_profile": {
+          "height_weight_build": "no official district-level statistics",
+          "confidence": "low"
+        }
+      },
+      "location": {
+        "home": "residential districts with newer development and education clusters",
+        "work": "education, offices, services, part of IT",
+        "commute_pattern": "active study-and-work flows",
+        "confidence": "medium"
+      },
+      "lifestyle": {
+        "entrepreneur": 0.12,
+        "maternity_mom": 0.09,
+        "large_family": 0.07,
+        "instagram_girl": 0.12,
+        "school_student": 0.14,
+        "university_student": 0.17,
+        "factory_worker": 0.1,
+        "office_worker": 0.31,
+        "it_boy": 0.14,
+        "confidence": "low"
+      },
+      "psychographics": {
+        "brand_loyalty": "medium",
+        "innovativeness": "high",
+        "price_sensitivity": "medium",
+        "confidence": "low"
+      },
+      "food_allergies": {
+        "lactose": null,
+        "gluten": null,
+        "nuts": null,
+        "note": "no district-level medical statistics",
+        "confidence": "low"
+      },
+      "diet_profile": {
+        "healthy_lifestyle": 0.34,
+        "fast_food": 0.36,
+        "vegan": 0.04,
+        "high_protein": 0.17,
+        "halal": 0.04,
+        "confidence": "low"
+      },
+      "social_context": {
+        "alone": 0.25,
+        "with_friends": 0.31,
+        "business_meeting": 0.14,
+        "family_dinner": 0.3,
+        "quick_snack": 0.35,
+        "full_meal": 0.39,
+        "meeting_place": 0.15,
+        "business_lunch": 0.11,
+        "confidence": "low"
+      },
+      "daypart": {
+        "breakfast": 0.2,
+        "lunch": 0.39,
+        "dinner": 0.41,
+        "confidence": "low"
+      }
+    },
+    {
+      "district": "Sverdlovsky",
+      "demography": {
+        "sex": { "male_pct": 48, "female_pct": 52, "confidence": "medium" },
+        "age": {
+          "age_0_17": 16,
+          "age_18_24": 10,
+          "age_25_34": 18,
+          "age_35_44": 16,
+          "age_45_54": 15,
+          "age_55_plus": 25,
+          "median_age": 39,
+          "confidence": "medium"
+        },
+        "income": {
+          "band": "middle",
+          "avg_monthly_personal_income_rub_est": 60000,
+          "price_sensitivity": "medium_to_above_medium",
+          "confidence": "low"
+        },
+        "body_profile": {
+          "height_weight_build": "no official district-level statistics",
+          "confidence": "low"
+        }
+      },
+      "location": {
+        "home": "mixed housing with a high share of family households",
+        "work": "services, retail, industrial-logistics jobs",
+        "commute_pattern": "moderate commuter mobility",
+        "confidence": "medium"
+      },
+      "lifestyle": {
+        "entrepreneur": 0.11,
+        "maternity_mom": 0.1,
+        "large_family": 0.09,
+        "instagram_girl": 0.09,
+        "school_student": 0.15,
+        "university_student": 0.09,
+        "factory_worker": 0.19,
+        "office_worker": 0.27,
+        "it_boy": 0.09,
+        "confidence": "low"
+      },
+      "psychographics": {
+        "brand_loyalty": "medium_to_above_average",
+        "innovativeness": "medium",
+        "price_sensitivity": "above_medium",
+        "confidence": "low"
+      },
+      "food_allergies": {
+        "lactose": null,
+        "gluten": null,
+        "nuts": null,
+        "note": "no district-level medical statistics",
+        "confidence": "low"
+      },
+      "diet_profile": {
+        "healthy_lifestyle": 0.28,
+        "fast_food": 0.4,
+        "vegan": 0.02,
+        "high_protein": 0.16,
+        "halal": 0.05,
+        "confidence": "low"
+      },
+      "social_context": {
+        "alone": 0.22,
+        "with_friends": 0.26,
+        "business_meeting": 0.11,
+        "family_dinner": 0.41,
+        "quick_snack": 0.32,
+        "full_meal": 0.46,
+        "meeting_place": 0.11,
+        "business_lunch": 0.11,
+        "confidence": "low"
+      },
+      "daypart": {
+        "breakfast": 0.21,
+        "lunch": 0.35,
+        "dinner": 0.44,
+        "confidence": "low"
+      }
+    },
+    {
+      "district": "Sovetsky",
+      "demography": {
+        "sex": { "male_pct": 47, "female_pct": 53, "confidence": "medium" },
+        "age": {
+          "age_0_17": 18,
+          "age_18_24": 12,
+          "age_25_34": 22,
+          "age_35_44": 17,
+          "age_45_54": 13,
+          "age_55_plus": 18,
+          "median_age": 35,
+          "confidence": "medium"
+        },
+        "income": {
+          "band": "middle_to_upper_middle",
+          "avg_monthly_personal_income_rub_est": 68000,
+          "price_sensitivity": "medium",
+          "confidence": "low"
+        },
+        "body_profile": {
+          "height_weight_build": "no official district-level statistics",
+          "confidence": "low"
+        }
+      },
+      "location": {
+        "home": "large residential clusters with active commerce",
+        "work": "offices, retail, services, digital/IT clusters",
+        "commute_pattern": "high daytime business activity",
+        "confidence": "medium"
+      },
+      "lifestyle": {
+        "entrepreneur": 0.14,
+        "maternity_mom": 0.1,
+        "large_family": 0.07,
+        "instagram_girl": 0.13,
+        "school_student": 0.16,
+        "university_student": 0.11,
+        "factory_worker": 0.11,
+        "office_worker": 0.34,
+        "it_boy": 0.15,
+        "confidence": "low"
+      },
+      "psychographics": {
+        "brand_loyalty": "medium",
+        "innovativeness": "high",
+        "price_sensitivity": "medium",
+        "confidence": "low"
+      },
+      "food_allergies": {
+        "lactose": null,
+        "gluten": null,
+        "nuts": null,
+        "note": "no district-level medical statistics",
+        "confidence": "low"
+      },
+      "diet_profile": {
+        "healthy_lifestyle": 0.33,
+        "fast_food": 0.38,
+        "vegan": 0.04,
+        "high_protein": 0.17,
+        "halal": 0.05,
+        "confidence": "low"
+      },
+      "social_context": {
+        "alone": 0.24,
+        "with_friends": 0.3,
+        "business_meeting": 0.16,
+        "family_dinner": 0.3,
+        "quick_snack": 0.35,
+        "full_meal": 0.4,
+        "meeting_place": 0.14,
+        "business_lunch": 0.11,
+        "confidence": "low"
+      },
+      "daypart": {
+        "breakfast": 0.2,
+        "lunch": 0.38,
+        "dinner": 0.42,
+        "confidence": "low"
+      }
+    }
+  ]
+}

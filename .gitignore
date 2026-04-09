@@ -1,0 +1,29 @@
+# Python cache / artifacts
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Tooling caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local matplotlib cache
+.mplconfig/
+
+# Generated simulation outputs
+users.json
+food.json
+calibration.json
+weights.json
+demand_report.json
+orders_baseline.jsonl
+client_report.pdf
+
